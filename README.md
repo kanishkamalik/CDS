@@ -1,4 +1,4 @@
-CDSlatest
+CDS latest
 ===
 
 Pricing CDS.
